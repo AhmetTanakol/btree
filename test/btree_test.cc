@@ -5,6 +5,7 @@
 #include <random>
 #include <sstream>
 #include <vector>
+#include <iostream>
 #include "moderndbs/defer.h"
 #include "moderndbs/btree.h"
 
