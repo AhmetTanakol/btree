@@ -1,7 +1,3 @@
-Name: Tanakol, Ahmet
-
-Matriculation number: 03691681
-
 # B+-Tree
 
 Implement a B+-Tree index for your database using the header `include/moderndbs/btree.h`.
